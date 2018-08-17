@@ -29,7 +29,7 @@ Hey man,very good, phase 1 completed.
 
 **Phase 2: Using Spring**
 
-Added dependency magic
+Added magic dependency
 
 
 ```
