@@ -56,3 +56,6 @@ Register Class as document in mongodb
 
 Register identification of document in mongodb
 
+---
+
+to more see [wiki](https://github.com/cassunde/spring-mongodb/wiki)
