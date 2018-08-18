@@ -40,7 +40,7 @@ Added magic dependency
 
 ```
 
-and added configuration to connected in **application.properties**
+and added this configuration in **application.properties**
 
 ```
 spring.data.mongodb.uri=mongodb://localhost:27017/ws-mongo
